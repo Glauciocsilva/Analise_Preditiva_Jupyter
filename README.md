@@ -1,2 +1,3 @@
 # Analise_Preditiva_Jupyter
-Analise Preditiva de Ações escolhida pelo usuario no periodo de 90 dias
+
+Análise Preditiva de Ações da bolsa de valores escolhida pelo usuário no periodo de 90 dias
